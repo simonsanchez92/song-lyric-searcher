@@ -1,7 +1,7 @@
 # song-lyric-searcher
 
 <p>Lyric searcher web application built with HTML, CSS, Bootstrap, and vanilla JavaScript</p>
-<p>The app fetches queries by the user from the <b>lyrics.ovh API</b></p>
+<p>The app fetches data from the <b>lyrics.ovh API</b></p>
 
 <h3>Implemented Technologies:</h3>
 <ul>
